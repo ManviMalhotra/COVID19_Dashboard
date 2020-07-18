@@ -1,6 +1,8 @@
 voila
-Anaconda 
+voila-material
 pandas
 numpy
 plotly
 ipywidgets
+plotly_express
+functools
