@@ -5,4 +5,4 @@ numpy
 plotly
 ipywidgets
 plotly_express
-
+matplotlib
