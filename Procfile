@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --template=material --theme=dark --enable_nbextensions=True COVID_FINAL.ipynb
+web: voila --port=$PORT --no-browser --template=material --theme=dark COVID_FINAL.ipynb
